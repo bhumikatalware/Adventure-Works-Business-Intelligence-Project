@@ -222,18 +222,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# 👩‍💻 Team Members
-
-| Name |
-|------|
-| Bhumika Talware |
-| Shraddha Wadnere |
-| Tilak Bhutada |
-| Bharatwaaj RSM |
-| Neela Sahithi |
-| Madhumitha Manda |
-| Karegoud Indu Reddy |
-
 ---
 
 # 📬 Connect With Me
